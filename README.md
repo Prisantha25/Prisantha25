@@ -1,5 +1,7 @@
 # Hi, I'm Prisantha Chinappen 👋
 
+IT Service Desk Technician | AI Automation Enthusiast | 8+ Years Enterprise IT Support
+
 ## About Me
 
  IT Service Desk Technician with over 8 years of experience in enterprise IT support, service management, and technical troubleshooting.
