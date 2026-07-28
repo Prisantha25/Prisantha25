@@ -63,7 +63,7 @@ Analyzes workforce trends, attendance patterns, and operational insights to supp
 
 ## Career Goal
 
-To transition into AI Automation, ServiceNow AI, Copilot Development, or ITSM Leadership roles while driving innovation and operational excellence.
+To transition into AI Automation, Copilot Development, ServiceNow AI, or IAM roles while driving innovation, automation, and operational excellence.
 
 ---
 
