@@ -23,7 +23,6 @@ I specialise in leveraging AI, automation, and data-driven insights to improve S
 
 ---
 ## Skills
- 
 - Microsoft Copilot Studio
 - ServiceNow
 - Power Platform
