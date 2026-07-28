@@ -9,7 +9,7 @@ IT Service Desk Technician | AI Automation Enthusiast | 8+ Years Enterprise IT S
  
 I specialise in leveraging AI, automation, and data-driven insights to improve Service Desk operations, ticket quality, customer experience, and operational efficiency.
 
- Currently building solutions using Microsoft Copilot Studio, ServiceNow, Power Platform, and emerging AI technologies.
+Currently building solutions using Microsoft Copilot Studio, ServiceNow, Power Platform, and emerging AI technologies.
  
 ---
 
