@@ -1,12 +1,15 @@
 # Hi, I'm Prisantha Chinappen 👋
 
 ## About Me
-
-IT Service Desk Technician with 8+ years of experience in enterprise IT support, service management, and technical troubleshooting.
-
-I am passionate about AI, automation, and improving Service Desk operations through innovative solutions built with Microsoft Copilot Studio, ServiceNow, Power Platform, and data-driven insights.
-
----
+2
+ 
+3 IT Service Desk Technician with over 8 years of experience in enterprise IT support, service management, and technical troubleshooting.
+4
+ 
+5 I specialise in leveraging AI, automation, and data-driven insights to improve Service Desk operations, ticket quality, customer experience, and operational efficiency.
+6
+ 
+7 Currently building solutions using Microsoft Copilot Studio, ServiceNow, Power Platform, and emerging AI technologies.
 
 ## Current Focus Areas
 
@@ -19,7 +22,29 @@ I am passionate about AI, automation, and improving Service Desk operations thro
 - IT Service Management
 
 ---
+## Skills
+2
+ 
+3
+- Microsoft Copilot Studio
+4
+- ServiceNow
+5
+- Power Platform
+6
+- AI & Automation
+7
+- IT Service Management
+8
+- Identity & Access Management
+9
+- Incident & Request Management
+10
+- Enterprise Technical Support
+11
+- Python (Learning)
 
+---
 ## Featured Projects
 
 ### 🎯 Ticket Quality Agent
