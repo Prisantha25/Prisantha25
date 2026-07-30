@@ -1,29 +1,16 @@
 # Hi 👋 I'm Prisantha Chinappen
-
- 
-
 AI & Automation Enthusiast | IT Service Desk Professional
-
- 
 
 🎯 Building AI-powered solutions using
 
 - Microsoft Copilot Studio
-
 - ServiceNow
-
 - Power Platform
-
 - Generative AI
-  
 - Process Automation
   
- 
-
 📍 South Africa
-
 💼 Currently: IT Help Desk Technician
-
 🚀 Aspiring AI Engineer
 
 ## About Me
