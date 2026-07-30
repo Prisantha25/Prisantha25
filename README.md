@@ -43,17 +43,12 @@ To transition into AI Automation, Copilot Development, ServiceNow AI, or IAM rol
 ---
 ## Key Achievements
 
-✅ Designed and developed 4+ AI agents using Microsoft Copilot Studio and Microsoft 365 Copilot
-
-✅ Improved Service Desk knowledge accessibility through AI-powered troubleshooting assistants
-
-✅ Automated ticket quality review processes to support consistent documentation standards
-
-✅ Guided team members in creating and adopting AI-powered solutions
-
-✅ Supported enterprise IT environments serving over 10,000 users
-
-✅ Combined IT Service Management expertise with AI automation to improve operational efficiency
+- Designed and developed 4+ AI agents using Microsoft Copilot Studio and Microsoft 365 Copilot
+- Improved Service Desk knowledge accessibility through AI-powered troubleshooting assistants
+- Automated ticket quality review processes to support consistent documentation standards
+- Guided team members in creating and adopting AI-powered solutions
+- Supported enterprise IT environments serving over 10,000 users
+- Combined IT Service Management expertise with AI automation to improve operational efficiency
 
 ---
 ## Skills
