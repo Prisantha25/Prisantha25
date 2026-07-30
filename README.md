@@ -41,6 +41,16 @@ To transition into AI Automation, Copilot Development, ServiceNow AI, or IAM rol
 - IT Service Management
 
 ---
+## Currently Learning
+
+- Python Fundamentals
+- Git & GitHub
+- Machine Learning Fundamentals
+- LLM Concepts
+- Retrieval Augmented Generation (RAG)
+- AI Engineering Practices
+
+---
 ## Key Achievements
 
 - Designed and developed 4+ AI agents using Microsoft Copilot Studio and Microsoft 365 Copilot
